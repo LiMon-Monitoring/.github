@@ -24,9 +24,9 @@ LiMon polls FlexLM, RLM, LM-X, and DSLS license servers, collects real-time usag
 
 The commercial edition adds a setup wizard, admin interface, intelligence reports (Savings Report, Audit Defense), advanced analytics, and priority support. Distributed as a self-contained Docker appliance or as a .tgz file to run as systemd application.
 
-Learn more at [getlimon.com](https://getlimon.com).
+Learn more at [limonops.com](https://limonops.com).
 
 ## Contact
 
-- Website: [getlimon.com](https://getlimon.com)
-- Email: info@getlimon.com
+- Website: [limonops.com](https://limonops.com)
+- Email: info@limonops.com
