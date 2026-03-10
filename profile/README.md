@@ -27,6 +27,11 @@ Distributed as a self-contained Docker appliance or as a native rpm/deb package 
 
 The commercial edition adds a setup wizard, admin interface, intelligence reports (Savings Report, Audit Defense), advanced analytics, and priority support. 
 
+
+<p align="center">
+  <img src="screenshot02.png" alt="LiMon Report Dashboard" width="800">
+</p>
+
 Learn more at [limonops.com](https://limonops.com).
 
 ## Contact
