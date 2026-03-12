@@ -1,6 +1,4 @@
-# LiMon — License Monitoring System
-
-**On-premises license monitoring for engineering software.**
+![LiMon Logo](limon-corporate-transparent.svg)
 
 LiMon polls FlexLM, RLM, LM-X, and DSLS license servers, collects real-time usage data, tracks historical patterns, detects inventory changes, and generates actionable reports — all without installing agents on your license servers.
 
