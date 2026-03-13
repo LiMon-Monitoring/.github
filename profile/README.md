@@ -1,5 +1,6 @@
 ![LiMon Logo](limon-corporate-transparent.svg)
 
+![LiMon Logo](limon-corporate-dark.svg)
 LiMon polls FlexLM, RLM, LM-X, and DSLS license servers, collects real-time usage data, tracks historical patterns, detects inventory changes, and generates actionable reports — all without installing agents on your license servers.
 
 ## Key Features
