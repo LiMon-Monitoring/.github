@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" fill="none">
+  <!-- Icon -->
+  <rect x="0" y="0" width="180" height="180" rx="32" fill="#26456B"></rect>
+
+  <!-- Gauge -->
+  <path d="M39.8 81
+       A50.4 50.4 0 0 1 71.6 34.8" stroke="#D39C2C" stroke-width="6.3" fill="none"></path>
+  <path d="M71.6 34.8
+       A50.4 50.4 0 0 1 140.4 81" stroke="#F3F4F6" stroke-width="6.3" fill="none"></path>
+
+  <!-- Filled L -->
+  <path d="M85 48
+       H97
+       V81
+       H117
+       V89
+       H85
+       Z" fill="#F3F4F6"></path>
+
+  <!-- Wordmark -->
+  <text x="215" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="64" font-weight="700" fill="#F3F4F6">
+    LiMon
+  </text>
+
+  <!-- Tagline -->
+  <text x="215" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="500" fill="#D1D5DB">
+    Enterprise License Monitoring
+  </text>
+</svg>
