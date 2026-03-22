@@ -4,7 +4,7 @@ LiMon polls FlexLM, RLM, LM-X, and DSLS license servers, collects real-time usag
 
 ## Key Features
 
-- **Multi-vendor support** — FlexLM/FlexNet, Reprise RLM, X-Formation LM-X, and Dassault DSLS
+- **Multi-vendor support** — FlexLM/FlexNet, Reprise RLM, X-Formation LM-X, Dassault DSLS and Sentinel RMS
 - **Real-time dashboard** — Self-contained HTML dashboard regenerated each polling cycle
 - **License inventory tracking** — Detects changes to license files with full audit trail
 - **Historical usage analytics** — Time-series snapshots, hourly/daily aggregations, user activity
