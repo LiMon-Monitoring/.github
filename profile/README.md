@@ -12,18 +12,13 @@ LiMon polls FlexLM, RLM, LM-X, DSLS license servers and more, collects real-time
 - **Intelligence Reports** — Savings Report (cost vs. usage) and Audit Defense (compliance readiness)
 - **Air-gap friendly** — No CDN dependencies, no phone-home. Fully self-contained.
 
-## Repositories
-
-| Repository | Description |
-|---|---|
-| [**LiMon-core**](https://github.com/LiMon-Monitoring/LiMon-core) | Community Edition — free, source-available under BUSL-1.1 |
 
 ## Distribution
 Distributed as a self-contained Docker appliance or as a native rpm/deb package to run on Linux as a systemd application.
 
 ## Commercial Edition
 
-The commercial edition adds a setup wizard, admin interface, intelligence reports (Savings Report, Audit Defense), advanced analytics, and priority support. 
+The commercial edition includes a setup wizard, admin interface, intelligence reports (Savings Report, Audit Defense), advanced analytics, and priority support. 
 
 
 <p align="center">
